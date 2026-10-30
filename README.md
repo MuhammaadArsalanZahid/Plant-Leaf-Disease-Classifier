@@ -6,7 +6,7 @@ An end-to-end deep learning image classification system built during the AI/ML I
 
 ## 📺 Project Demo
 *   **Demo Video Link:** https://drive.google.com/file/d/14Ts8g-g1W2HF7XQ0A4TZRsfodKYG3ero/view?usp=sharing
-*   **LinkedIn Project Post:** [Insert Your LinkedIn Project Post Link Here]
+*   **LinkedIn Project Post:** https://lnkd.in/p/ddTnwrnH
 
 ---
 
